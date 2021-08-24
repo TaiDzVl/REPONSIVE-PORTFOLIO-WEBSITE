@@ -1,0 +1,14 @@
+{
+  "name": "reponsive-portfolio-website",
+  "version": "1.0.0",
+  "description": "Reponsive Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o Index/css/ --recursive"
+  },
+  "author": "Tan Tai",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
